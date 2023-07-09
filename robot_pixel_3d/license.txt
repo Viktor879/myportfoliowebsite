@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robot Pixel 3D
+* source:	https://sketchfab.com/3d-models/robot-pixel-3d-cb0b290d0aa54cbb8f443f33aba1b00f
+* author:	Johan Jiménez (https://sketchfab.com/Johan.Jimenez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robot Pixel 3D" (https://sketchfab.com/3d-models/robot-pixel-3d-cb0b290d0aa54cbb8f443f33aba1b00f) by Johan Jiménez (https://sketchfab.com/Johan.Jimenez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

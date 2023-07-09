@@ -1,0 +1,206 @@
+{
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 3870,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 2046,
+      "max": [
+        1.007843137254902,
+        1.007843137254902,
+        1.007843137254902
+      ],
+      "min": [
+        -1.007843137254902,
+        -1.007843137254902,
+        -1.007843137254902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2046,
+      "max": [
+        3.50175862785194,
+        2.3012212878852925,
+        5.601612019899943
+      ],
+      "min": [
+        0.4983878847326252,
+        1.498387884732625,
+        2.2983878370489093
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2046,
+      "max": [
+        0.986740395820036,
+        0.5004123900293255
+      ],
+      "min": [
+        0.564040615761385,
+        0.4995876099706745
+      ],
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Johan Jiménez (https://sketchfab.com/Johan.Jimenez)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/robot-pixel-3d-cb0b290d0aa54cbb8f443f33aba1b00f",
+      "title": "Robot Pixel 3D"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1676
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1680,
+      "byteLength": 117
+    }
+  ],
+  "buffers": [
+    {
+      "name": "robot_pixel_3d",
+      "byteLength": 1800,
+      "uri": "data:application/octet-stream;base64,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"
+    }
+  ],
+  "images": [
+    {
+      "name": "palette_baseColor",
+      "bufferView": 1,
+      "mimeType": "image/png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "palette",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.220446049250313e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.220446049250313e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "Robot.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}
